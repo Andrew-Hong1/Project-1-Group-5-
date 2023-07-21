@@ -5,11 +5,11 @@ Title: Amazon Kitchen Appliance Sales Data
 
 Members: 
 
-Andrew Hong \n
-Sebastian Alonso \n
-Amine Sahnoun \n
-Aimee Galindo \n
-Patatri Datta \n
+Andrew Hong
+Sebastian Alonso
+Amine Sahnoun 
+Aimee Galindo
+Patatri Datta
 
 Project Description:
 
