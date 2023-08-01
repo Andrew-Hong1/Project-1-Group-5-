@@ -27,4 +27,5 @@ Datasets
 Ultimate Amazon Dataset
 https://www.kaggle.com/datasets/regulad/amazon?resource=download
 
-Slideshow: 
+Slideshow: https://docs.google.com/presentation/d/1WgF--CUMEey3J_RZpR9mU8z6WWNJPF8I3QnygThUmQg/edit?usp=sharing
+
